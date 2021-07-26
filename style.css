@@ -1,0 +1,34 @@
+
+
+.titulo {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    
+}
+body{
+    background-color: #92D6C1;
+}
+.texto {
+    text-align: center;
+
+}
+.button {
+    background: #0D1117;
+     border-radius: 7px;
+     padding:12px 30px;
+     cursor: pointer;
+     color: white;
+     font-size: 20px;
+     text-align: end;
+
+}
+.foto-perfil{
+    width: 200px;
+    border-radius:100px;
+
+}
+.github-logo{
+    width: 32px;
+    align-items: center;
+}
+
